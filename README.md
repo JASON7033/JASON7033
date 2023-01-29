@@ -1,4 +1,7 @@
 ### Hi there 👋
+![JASON's GitHub stats](https://github-readme-stats.vercel.app/api?username=JASON7033&show_icons=true&theme=radical)
+<!-- ![pre1](https://img.shields.io/badge/python-3.9-orange) -->
+![skill1](https://img.shields.io/badge/python-3.9-orange?style=for-the-badge&logo=python&logoColor=orange)
 
 <!--
 **JASON7033/JASON7033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
